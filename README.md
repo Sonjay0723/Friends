@@ -1,0 +1,2 @@
+# Friends
+A program that uses graphs breadth-first traversal, depth-first traversals to connect people together in friend groups and are connected by mutual friends. Each person each person may or may not also be a student, and what school if that person is a student. It can find cliques based on connected friends within the same school, find the shortest path between 2 people connected through mutual friends, and find people who are “connector,” people that are necessary for 2 people in the graph to be connected.
